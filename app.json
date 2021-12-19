@@ -25,15 +25,15 @@
       },
       {
         "pagePath": "pages/category/category",
-        "text": "分类",
-        "iconPath": "/assets/images/tabbar/category.png",
-        "selectedIconPath": "/assets/images/tabbar/category_active.png"
+        "text": "预约",
+        "iconPath": "/assets/images/tabbar/appointment.png",
+        "selectedIconPath": "/assets/images/tabbar/appointment_active.png"
       },
       {
         "pagePath": "pages/cart/cart",
-        "text": "购物车",
-        "iconPath": "/assets/images/tabbar/cart.png",
-        "selectedIconPath": "/assets/images/tabbar/cart_active.png"
+        "text": "运动",
+        "iconPath": "/assets/images/tabbar/sport.png",
+        "selectedIconPath": "/assets/images/tabbar/sport_active.png"
       },
       {
         "pagePath": "pages/profile/profile",

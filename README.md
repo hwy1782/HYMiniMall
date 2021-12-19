@@ -1,16 +1,17 @@
-# HYMiniMall
-### 小程序学习
+# 赛艇汇
 
-> 本项目是学习小程序开发的练习项目，课程完全免费，如果对您有帮助，欢迎star
+fork 自 [HYMiniMall](https://github.com/coderwhy/HYMiniMall)
 
-课程代码：https://github.com/coderwhy/LearnMiniProgram
+### 需求说明
 
-课程大纲：
+见 doc 文件夹
 
-<img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4mcohirioj30te0fc0tx.jpg"/>
+### 样式说明
 
+1. icon 颜色：
+    - 红色（选中）：F55675
+    - 黑色（未选中）：515151
 
+### 常用工具
 
-### 项目展示
-<img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4j9tfqhdfj30u01szafo.jpg"  width="200px"/><img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4j9tfsqusj30u01sztet.jpg" width="200px"/><img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4j9tfwmc3j30u01szq7q.jpg" width="200px"/><img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4j9tfraclj30u01szq77.jpg" width="200px"/><img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4j9tfm80cj30u01szgnw.jpg" width="200px"/><img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4j9tfta9tj30u01szwjh.jpg" width="200px"/><img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4j9tfu77zj30u01szdip.jpg" width="200px"/><img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4j9tfyvkuj30u01szahe.jpg" width="200px"/>
-
+1. [iconfont](https://www.iconfont.cn/) ：icon 工具库
