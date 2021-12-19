@@ -8,8 +8,8 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#ff5777",
-    "navigationBarTitleText": "购物街",
+    "navigationBarBackgroundColor": "#33A5FF",
+    "navigationBarTitleText": "赛艇汇",
     "navigationBarTextStyle": "white"
   },
   "sitemapLocation": "sitemap.json",
