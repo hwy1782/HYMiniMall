@@ -15,12 +15,12 @@ Page({
   data: {
     banners: [],
     recommends:[],
-    titles: ["流行", "新款", "精选"],
-    goods: {
-      [POP]: { page: 1, list: [] },
-      [NEW]: { page: 1, list: [] },
-      [SELL]: { page: 1, list: [] },
-    },
+    // titles: ["流行", "新款", "精选"],
+    // goods: {
+    //   [POP]: { page: 1, list: [] },
+    //   [NEW]: { page: 1, list: [] },
+    //   [SELL]: { page: 1, list: [] },
+    // },
     currentType: 'pop',
     topPosition: 0,
     tabControlTop: 0,
@@ -99,9 +99,9 @@ Page({
   // 网络请求相关方法
   _getData() {
     this._getMultiData(); // 获取上面的数据
-    this._getProductData(POP);
-    this._getProductData(NEW);
-    this._getProductData(SELL);
+    // this._getProductData(POP);
+    // this._getProductData(NEW);
+    // this._getProductData(SELL);
   },
   _getMultiData() {
     getMultiData().then(res => {

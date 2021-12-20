@@ -4,4 +4,5 @@
   <w-info/>
   <w-list-view infos="{{orderList}}"/>
   <w-list-view infos="{{serviceList}}"/>
+  <w-list-view infos="{{others}}"/>
 </view>

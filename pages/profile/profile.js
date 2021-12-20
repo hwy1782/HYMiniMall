@@ -1,17 +1,21 @@
 // pages/profile/profile.js
 Page({
-  data: {
-    orderList: [
-      { icon: 'message.png', info: '我的消息' },
-      { icon: 'pointer.png', info: '积分商城' },
-      { icon: 'vip.png', info: '会员卡' },
-    ],
-    serviceList: [
-      { icon: 'cart.png', info: '我的购物车' },
-      { icon: 'app.png', info: '下载购物APP' },
-    ]
-  },
-  onLoad: function (options) {
+    data: {
+        orderList: [
+            {icon: 'order.png', info: '订单'},
+            {icon: 'coupon.png', info: '优惠券'},
+        ],
+        serviceList: [
+            {icon: 'rowing.png', info: '我的赛艇'},
+            {icon: 'term.png', info: '我的赛队'},
+        ],
+        others: [
+            {icon: 'feedback.png', info: '意见反馈'},
+            {icon: 'call.png', info: '联系我们'},
+            {icon: 'setting.png', info: '设置'},
+        ]
+    },
+    onLoad: function (options) {
 
-  },
+    },
 })
